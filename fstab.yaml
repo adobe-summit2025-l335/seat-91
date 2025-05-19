@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p148076-e1511509.adobeaemcloud.com/bin/franklin.delivery/adobe-summit2025-l335/l335-base/main"
+    url: "https://author-p156044-e1654644.adobeaemcloud.com/bin/franklin.delivery/adobe-summit2025-l335/seat-91/main"
     type: "markup"
     suffix: ".html"
